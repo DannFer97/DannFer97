@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Fernández</h1>
-<h3 align="center">A passionate frontend developer from Ecuador</h3>
+<h3 align="center">A passionate developer from Ecuador</h3>
+<h3 align="center">GRADUATE IN  ELECTRONIC ENGINEERING, AUTOMATION AND CONTROL</h3>
 
 
 
