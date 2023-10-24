@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Fernández</h1>
-<h3 align="center">A passionate frontend developer from Ecuadot</h3>
+<h3 align="center">A passionate frontend developer from Ecuador</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannfer97" alt="dannfer97" /></a> </p>
 
