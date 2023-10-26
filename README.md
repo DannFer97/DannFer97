@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Digital Interactive Wall](https://github.com/DannFer97/digital-interactive-wall)
+- 🔭 I’m currently working on developing video games for [Digital Interactive Wall](https://github.com/DannFer97/digital-interactive-wall)
 
 - 📫 How to reach me **dafernandez2302@gmail.com**
 
